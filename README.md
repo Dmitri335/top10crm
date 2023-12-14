@@ -2,7 +2,7 @@
 
 ## [![image](https://github.com/Dmitri335/top10crm/assets/153757020/7a9f7ced-d4d7-4957-bf11-298104fda71c)
 CRM  МойСклад ] (https://crmindex.ru)
-![image](https://github.com/Dmitri335/top10crm/assets/153757020/ff2966d3-fa0d-425e-8ea3-90d5cd59705f)
+
 
 - Цена: -- 0 – 6900 рос. руб
 
