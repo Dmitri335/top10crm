@@ -1,6 +1,8 @@
 # Сравнительный анализ.ТОП 10 CRM
 
-## [ CRM  МойСклад ] (https://crmindex.ru)
+## [![image](https://github.com/Dmitri335/top10crm/assets/153757020/7a9f7ced-d4d7-4957-bf11-298104fda71c)
+CRM  МойСклад ] (https://crmindex.ru)
+![Uploading image.png…]()
 
 - Цена: -- 0 – 6900 рос. руб
 
